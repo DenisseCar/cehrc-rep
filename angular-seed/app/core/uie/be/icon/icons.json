@@ -1,0 +1,1474 @@
+[{
+	"name": "home",
+	"code": "e900"
+}, {
+	"name": "home2",
+	"code": "e901"
+}, {
+	"name": "home3",
+	"code": "e902"
+}, {
+	"name": "office",
+	"code": "e903"
+}, {
+	"name": "newspaper",
+	"code": "e904"
+}, {
+	"name": "pencil",
+	"code": "e905"
+}, {
+	"name": "pencil2",
+	"code": "e906"
+}, {
+	"name": "quill",
+	"code": "e907"
+}, {
+	"name": "pen",
+	"code": "e908"
+}, {
+	"name": "blog",
+	"code": "e909"
+}, {
+	"name": "eyedropper",
+	"code": "e90a"
+}, {
+	"name": "droplet",
+	"code": "e90b"
+}, {
+	"name": "paint-format",
+	"code": "e90c"
+}, {
+	"name": "image",
+	"code": "e90d"
+}, {
+	"name": "images",
+	"code": "e90e"
+}, {
+	"name": "camera",
+	"code": "e90f"
+}, {
+	"name": "headphones",
+	"code": "e910"
+}, {
+	"name": "music",
+	"code": "e911"
+}, {
+	"name": "play",
+	"code": "e912"
+}, {
+	"name": "film",
+	"code": "e913"
+}, {
+	"name": "video-camera",
+	"code": "e914"
+}, {
+	"name": "dice",
+	"code": "e915"
+}, {
+	"name": "pacman",
+	"code": "e916"
+}, {
+	"name": "spades",
+	"code": "e917"
+}, {
+	"name": "clubs",
+	"code": "e918"
+}, {
+	"name": "diamonds",
+	"code": "e919"
+}, {
+	"name": "bullhorn",
+	"code": "e91a"
+}, {
+	"name": "connection",
+	"code": "e91b"
+}, {
+	"name": "podcast",
+	"code": "e91c"
+}, {
+	"name": "feed",
+	"code": "e91d"
+}, {
+	"name": "mic",
+	"code": "e91e"
+}, {
+	"name": "book",
+	"code": "e91f"
+}, {
+	"name": "books",
+	"code": "e920"
+}, {
+	"name": "library",
+	"code": "e921"
+}, {
+	"name": "file-text",
+	"code": "e922"
+}, {
+	"name": "profile",
+	"code": "e923"
+}, {
+	"name": "file-empty",
+	"code": "e924"
+}, {
+	"name": "files-empty",
+	"code": "e925"
+}, {
+	"name": "file-text2",
+	"code": "e926"
+}, {
+	"name": "file-picture",
+	"code": "e927"
+}, {
+	"name": "file-music",
+	"code": "e928"
+}, {
+	"name": "file-play",
+	"code": "e929"
+}, {
+	"name": "file-video",
+	"code": "e92a"
+}, {
+	"name": "file-zip",
+	"code": "e92b"
+}, {
+	"name": "copy",
+	"code": "e92c"
+}, {
+	"name": "paste",
+	"code": "e92d"
+}, {
+	"name": "stack",
+	"code": "e92e"
+}, {
+	"name": "folder",
+	"code": "e92f"
+}, {
+	"name": "folder-open",
+	"code": "e930"
+}, {
+	"name": "folder-plus",
+	"code": "e931"
+}, {
+	"name": "folder-minus",
+	"code": "e932"
+}, {
+	"name": "folder-download",
+	"code": "e933"
+}, {
+	"name": "folder-upload",
+	"code": "e934"
+}, {
+	"name": "price-tag",
+	"code": "e935"
+}, {
+	"name": "price-tags",
+	"code": "e936"
+}, {
+	"name": "barcode",
+	"code": "e937"
+}, {
+	"name": "qrcode",
+	"code": "e938"
+}, {
+	"name": "ticket",
+	"code": "e939"
+}, {
+	"name": "cart",
+	"code": "e93a"
+}, {
+	"name": "coin-dollar",
+	"code": "e93b"
+}, {
+	"name": "coin-euro",
+	"code": "e93c"
+}, {
+	"name": "coin-pound",
+	"code": "e93d"
+}, {
+	"name": "coin-yen",
+	"code": "e93e"
+}, {
+	"name": "credit-card",
+	"code": "e93f"
+}, {
+	"name": "calculator",
+	"code": "e940"
+}, {
+	"name": "lifebuoy",
+	"code": "e941"
+}, {
+	"name": "phone",
+	"code": "e942"
+}, {
+	"name": "phone-hang-up",
+	"code": "e943"
+}, {
+	"name": "address-book",
+	"code": "e944"
+}, {
+	"name": "envelop",
+	"code": "e945"
+}, {
+	"name": "pushpin",
+	"code": "e946"
+}, {
+	"name": "location",
+	"code": "e947"
+}, {
+	"name": "location2",
+	"code": "e948"
+}, {
+	"name": "compass",
+	"code": "e949"
+}, {
+	"name": "compass2",
+	"code": "e94a"
+}, {
+	"name": "map",
+	"code": "e94b"
+}, {
+	"name": "map2",
+	"code": "e94c"
+}, {
+	"name": "history",
+	"code": "e94d"
+}, {
+	"name": "clock",
+	"code": "e94e"
+}, {
+	"name": "clock2",
+	"code": "e94f"
+}, {
+	"name": "alarm",
+	"code": "e950"
+}, {
+	"name": "bell",
+	"code": "e951"
+}, {
+	"name": "stopwatch",
+	"code": "e952"
+}, {
+	"name": "calendar",
+	"code": "e953"
+}, {
+	"name": "printer",
+	"code": "e954"
+}, {
+	"name": "keyboard",
+	"code": "e955"
+}, {
+	"name": "display",
+	"code": "e956"
+}, {
+	"name": "laptop",
+	"code": "e957"
+}, {
+	"name": "mobile",
+	"code": "e958"
+}, {
+	"name": "mobile2",
+	"code": "e959"
+}, {
+	"name": "tablet",
+	"code": "e95a"
+}, {
+	"name": "tv",
+	"code": "e95b"
+}, {
+	"name": "drawer",
+	"code": "e95c"
+}, {
+	"name": "drawer2",
+	"code": "e95d"
+}, {
+	"name": "box-add",
+	"code": "e95e"
+}, {
+	"name": "box-remove",
+	"code": "e95f"
+}, {
+	"name": "download",
+	"code": "e960"
+}, {
+	"name": "upload",
+	"code": "e961"
+}, {
+	"name": "floppy-disk",
+	"code": "e962"
+}, {
+	"name": "drive",
+	"code": "e963"
+}, {
+	"name": "database",
+	"code": "e964"
+}, {
+	"name": "undo",
+	"code": "e965"
+}, {
+	"name": "redo",
+	"code": "e966"
+}, {
+	"name": "undo2",
+	"code": "e967"
+}, {
+	"name": "redo2",
+	"code": "e968"
+}, {
+	"name": "forward",
+	"code": "e969"
+}, {
+	"name": "reply",
+	"code": "e96a"
+}, {
+	"name": "bubble",
+	"code": "e96b"
+}, {
+	"name": "bubbles",
+	"code": "e96c"
+}, {
+	"name": "bubbles2",
+	"code": "e96d"
+}, {
+	"name": "bubble2",
+	"code": "e96e"
+}, {
+	"name": "bubbles3",
+	"code": "e96f"
+}, {
+	"name": "bubbles4",
+	"code": "e970"
+}, {
+	"name": "user",
+	"code": "e971"
+}, {
+	"name": "users",
+	"code": "e972"
+}, {
+	"name": "user-plus",
+	"code": "e973"
+}, {
+	"name": "user-minus",
+	"code": "e974"
+}, {
+	"name": "user-check",
+	"code": "e975"
+}, {
+	"name": "user-tie",
+	"code": "e976"
+}, {
+	"name": "quotes-left",
+	"code": "e977"
+}, {
+	"name": "quotes-right",
+	"code": "e978"
+}, {
+	"name": "hour-glass",
+	"code": "e979"
+}, {
+	"name": "spinner",
+	"code": "e97a"
+}, {
+	"name": "spinner2",
+	"code": "e97b"
+}, {
+	"name": "spinner3",
+	"code": "e97c"
+}, {
+	"name": "spinner4",
+	"code": "e97d"
+}, {
+	"name": "spinner5",
+	"code": "e97e"
+}, {
+	"name": "spinner6",
+	"code": "e97f"
+}, {
+	"name": "spinner7",
+	"code": "e980"
+}, {
+	"name": "spinner8",
+	"code": "e981"
+}, {
+	"name": "spinner9",
+	"code": "e982"
+}, {
+	"name": "spinner10",
+	"code": "e983"
+}, {
+	"name": "spinner11",
+	"code": "e984"
+}, {
+	"name": "binoculars",
+	"code": "e985"
+}, {
+	"name": "search",
+	"code": "e986"
+}, {
+	"name": "zoom-in",
+	"code": "e987"
+}, {
+	"name": "zoom-out",
+	"code": "e988"
+}, {
+	"name": "enlarge",
+	"code": "e989"
+}, {
+	"name": "shrink",
+	"code": "e98a"
+}, {
+	"name": "enlarge2",
+	"code": "e98b"
+}, {
+	"name": "shrink2",
+	"code": "e98c"
+}, {
+	"name": "key",
+	"code": "e98d"
+}, {
+	"name": "key2",
+	"code": "e98e"
+}, {
+	"name": "lock",
+	"code": "e98f"
+}, {
+	"name": "unlocked",
+	"code": "e990"
+}, {
+	"name": "wrench",
+	"code": "e991"
+}, {
+	"name": "equalizer",
+	"code": "e992"
+}, {
+	"name": "equalizer2",
+	"code": "e993"
+}, {
+	"name": "cog",
+	"code": "e994"
+}, {
+	"name": "cogs",
+	"code": "e995"
+}, {
+	"name": "hammer",
+	"code": "e996"
+}, {
+	"name": "magic-wand",
+	"code": "e997"
+}, {
+	"name": "aid-kit",
+	"code": "e998"
+}, {
+	"name": "bug",
+	"code": "e999"
+}, {
+	"name": "pie-chart",
+	"code": "e99a"
+}, {
+	"name": "stats-dots",
+	"code": "e99b"
+}, {
+	"name": "stats-bars",
+	"code": "e99c"
+}, {
+	"name": "stats-bars2",
+	"code": "e99d"
+}, {
+	"name": "trophy",
+	"code": "e99e"
+}, {
+	"name": "gift",
+	"code": "e99f"
+}, {
+	"name": "glass",
+	"code": "e9a0"
+}, {
+	"name": "glass2",
+	"code": "e9a1"
+}, {
+	"name": "mug",
+	"code": "e9a2"
+}, {
+	"name": "spoon-knife",
+	"code": "e9a3"
+}, {
+	"name": "leaf",
+	"code": "e9a4"
+}, {
+	"name": "rocket",
+	"code": "e9a5"
+}, {
+	"name": "meter",
+	"code": "e9a6"
+}, {
+	"name": "meter2",
+	"code": "e9a7"
+}, {
+	"name": "hammer2",
+	"code": "e9a8"
+}, {
+	"name": "fire",
+	"code": "e9a9"
+}, {
+	"name": "lab",
+	"code": "e9aa"
+}, {
+	"name": "magnet",
+	"code": "e9ab"
+}, {
+	"name": "bin",
+	"code": "e9ac"
+}, {
+	"name": "bin2",
+	"code": "e9ad"
+}, {
+	"name": "briefcase",
+	"code": "e9ae"
+}, {
+	"name": "airplane",
+	"code": "e9af"
+}, {
+	"name": "truck",
+	"code": "e9b0"
+}, {
+	"name": "road",
+	"code": "e9b1"
+}, {
+	"name": "accessibility",
+	"code": "e9b2"
+}, {
+	"name": "target",
+	"code": "e9b3"
+}, {
+	"name": "shield",
+	"code": "e9b4"
+}, {
+	"name": "power",
+	"code": "e9b5"
+}, {
+	"name": "switch",
+	"code": "e9b6"
+}, {
+	"name": "power-cord",
+	"code": "e9b7"
+}, {
+	"name": "clipboard",
+	"code": "e9b8"
+}, {
+	"name": "list-numbered",
+	"code": "e9b9"
+}, {
+	"name": "list",
+	"code": "e9ba"
+}, {
+	"name": "list2",
+	"code": "e9bb"
+}, {
+	"name": "tree",
+	"code": "e9bc"
+}, {
+	"name": "menu",
+	"code": "e9bd"
+}, {
+	"name": "menu2",
+	"code": "e9be"
+}, {
+	"name": "menu3",
+	"code": "e9bf"
+}, {
+	"name": "menu4",
+	"code": "e9c0"
+}, {
+	"name": "cloud",
+	"code": "e9c1"
+}, {
+	"name": "cloud-download",
+	"code": "e9c2"
+}, {
+	"name": "cloud-upload",
+	"code": "e9c3"
+}, {
+	"name": "cloud-check",
+	"code": "e9c4"
+}, {
+	"name": "download2",
+	"code": "e9c5"
+}, {
+	"name": "upload2",
+	"code": "e9c6"
+}, {
+	"name": "download3",
+	"code": "e9c7"
+}, {
+	"name": "upload3",
+	"code": "e9c8"
+}, {
+	"name": "sphere",
+	"code": "e9c9"
+}, {
+	"name": "earth",
+	"code": "e9ca"
+}, {
+	"name": "link",
+	"code": "e9cb"
+}, {
+	"name": "flag",
+	"code": "e9cc"
+}, {
+	"name": "attachment",
+	"code": "e9cd"
+}, {
+	"name": "eye",
+	"code": "e9ce"
+}, {
+	"name": "eye-plus",
+	"code": "e9cf"
+}, {
+	"name": "eye-minus",
+	"code": "e9d0"
+}, {
+	"name": "eye-blocked",
+	"code": "e9d1"
+}, {
+	"name": "bookmark",
+	"code": "e9d2"
+}, {
+	"name": "bookmarks",
+	"code": "e9d3"
+}, {
+	"name": "sun",
+	"code": "e9d4"
+}, {
+	"name": "contrast",
+	"code": "e9d5"
+}, {
+	"name": "brightness-contrast",
+	"code": "e9d6"
+}, {
+	"name": "star-empty",
+	"code": "e9d7"
+}, {
+	"name": "star-half",
+	"code": "e9d8"
+}, {
+	"name": "star-full",
+	"code": "e9d9"
+}, {
+	"name": "heart",
+	"code": "e9da"
+}, {
+	"name": "heart-broken",
+	"code": "e9db"
+}, {
+	"name": "man",
+	"code": "e9dc"
+}, {
+	"name": "woman",
+	"code": "e9dd"
+}, {
+	"name": "man-woman",
+	"code": "e9de"
+}, {
+	"name": "happy",
+	"code": "e9df"
+}, {
+	"name": "happy2",
+	"code": "e9e0"
+}, {
+	"name": "smile",
+	"code": "e9e1"
+}, {
+	"name": "smile2",
+	"code": "e9e2"
+}, {
+	"name": "tongue",
+	"code": "e9e3"
+}, {
+	"name": "tongue2",
+	"code": "e9e4"
+}, {
+	"name": "sad",
+	"code": "e9e5"
+}, {
+	"name": "sad2",
+	"code": "e9e6"
+}, {
+	"name": "wink",
+	"code": "e9e7"
+}, {
+	"name": "wink2",
+	"code": "e9e8"
+}, {
+	"name": "grin",
+	"code": "e9e9"
+}, {
+	"name": "grin2",
+	"code": "e9ea"
+}, {
+	"name": "cool",
+	"code": "e9eb"
+}, {
+	"name": "cool2",
+	"code": "e9ec"
+}, {
+	"name": "angry",
+	"code": "e9ed"
+}, {
+	"name": "angry2",
+	"code": "e9ee"
+}, {
+	"name": "evil",
+	"code": "e9ef"
+}, {
+	"name": "evil2",
+	"code": "e9f0"
+}, {
+	"name": "shocked",
+	"code": "e9f1"
+}, {
+	"name": "shocked2",
+	"code": "e9f2"
+}, {
+	"name": "baffled",
+	"code": "e9f3"
+}, {
+	"name": "baffled2",
+	"code": "e9f4"
+}, {
+	"name": "confused",
+	"code": "e9f5"
+}, {
+	"name": "confused2",
+	"code": "e9f6"
+}, {
+	"name": "neutral",
+	"code": "e9f7"
+}, {
+	"name": "neutral2",
+	"code": "e9f8"
+}, {
+	"name": "hipster",
+	"code": "e9f9"
+}, {
+	"name": "hipster2",
+	"code": "e9fa"
+}, {
+	"name": "wondering",
+	"code": "e9fb"
+}, {
+	"name": "wondering2",
+	"code": "e9fc"
+}, {
+	"name": "sleepy",
+	"code": "e9fd"
+}, {
+	"name": "sleepy2",
+	"code": "e9fe"
+}, {
+	"name": "frustrated",
+	"code": "e9ff"
+}, {
+	"name": "frustrated2",
+	"code": "ea00"
+}, {
+	"name": "crying",
+	"code": "ea01"
+}, {
+	"name": "crying2",
+	"code": "ea02"
+}, {
+	"name": "point-up",
+	"code": "ea03"
+}, {
+	"name": "point-right",
+	"code": "ea04"
+}, {
+	"name": "point-down",
+	"code": "ea05"
+}, {
+	"name": "point-left",
+	"code": "ea06"
+}, {
+	"name": "warning",
+	"code": "ea07"
+}, {
+	"name": "notification",
+	"code": "ea08"
+}, {
+	"name": "question",
+	"code": "ea09"
+}, {
+	"name": "plus",
+	"code": "ea0a"
+}, {
+	"name": "minus",
+	"code": "ea0b"
+}, {
+	"name": "info",
+	"code": "ea0c"
+}, {
+	"name": "cancel-circle",
+	"code": "ea0d"
+}, {
+	"name": "blocked",
+	"code": "ea0e"
+}, {
+	"name": "cross",
+	"code": "ea0f"
+}, {
+	"name": "checkmark",
+	"code": "ea10"
+}, {
+	"name": "checkmark2",
+	"code": "ea11"
+}, {
+	"name": "spell-check",
+	"code": "ea12"
+}, {
+	"name": "enter",
+	"code": "ea13"
+}, {
+	"name": "exit",
+	"code": "ea14"
+}, {
+	"name": "play2",
+	"code": "ea15"
+}, {
+	"name": "pause",
+	"code": "ea16"
+}, {
+	"name": "stop",
+	"code": "ea17"
+}, {
+	"name": "previous",
+	"code": "ea18"
+}, {
+	"name": "next",
+	"code": "ea19"
+}, {
+	"name": "backward",
+	"code": "ea1a"
+}, {
+	"name": "forward2",
+	"code": "ea1b"
+}, {
+	"name": "play3",
+	"code": "ea1c"
+}, {
+	"name": "pause2",
+	"code": "ea1d"
+}, {
+	"name": "stop2",
+	"code": "ea1e"
+}, {
+	"name": "backward2",
+	"code": "ea1f"
+}, {
+	"name": "forward3",
+	"code": "ea20"
+}, {
+	"name": "first",
+	"code": "ea21"
+}, {
+	"name": "last",
+	"code": "ea22"
+}, {
+	"name": "previous2",
+	"code": "ea23"
+}, {
+	"name": "next2",
+	"code": "ea24"
+}, {
+	"name": "eject",
+	"code": "ea25"
+}, {
+	"name": "volume-high",
+	"code": "ea26"
+}, {
+	"name": "volume-medium",
+	"code": "ea27"
+}, {
+	"name": "volume-low",
+	"code": "ea28"
+}, {
+	"name": "volume-mute",
+	"code": "ea29"
+}, {
+	"name": "volume-mute2",
+	"code": "ea2a"
+}, {
+	"name": "volume-increase",
+	"code": "ea2b"
+}, {
+	"name": "volume-decrease",
+	"code": "ea2c"
+}, {
+	"name": "loop",
+	"code": "ea2d"
+}, {
+	"name": "loop2",
+	"code": "ea2e"
+}, {
+	"name": "infinite",
+	"code": "ea2f"
+}, {
+	"name": "shuffle",
+	"code": "ea30"
+}, {
+	"name": "arrow-up-left",
+	"code": "ea31"
+}, {
+	"name": "arrow-up",
+	"code": "ea32"
+}, {
+	"name": "arrow-up-right",
+	"code": "ea33"
+}, {
+	"name": "arrow-right",
+	"code": "ea34"
+}, {
+	"name": "arrow-down-right",
+	"code": "ea35"
+}, {
+	"name": "arrow-down",
+	"code": "ea36"
+}, {
+	"name": "arrow-down-left",
+	"code": "ea37"
+}, {
+	"name": "arrow-left",
+	"code": "ea38"
+}, {
+	"name": "arrow-up-left2",
+	"code": "ea39"
+}, {
+	"name": "arrow-up2",
+	"code": "ea3a"
+}, {
+	"name": "arrow-up-right2",
+	"code": "ea3b"
+}, {
+	"name": "arrow-right2",
+	"code": "ea3c"
+}, {
+	"name": "arrow-down-right2",
+	"code": "ea3d"
+}, {
+	"name": "arrow-down2",
+	"code": "ea3e"
+}, {
+	"name": "arrow-down-left2",
+	"code": "ea3f"
+}, {
+	"name": "arrow-left2",
+	"code": "ea40"
+}, {
+	"name": "circle-up",
+	"code": "ea41"
+}, {
+	"name": "circle-right",
+	"code": "ea42"
+}, {
+	"name": "circle-down",
+	"code": "ea43"
+}, {
+	"name": "circle-left",
+	"code": "ea44"
+}, {
+	"name": "tab",
+	"code": "ea45"
+}, {
+	"name": "move-up",
+	"code": "ea46"
+}, {
+	"name": "move-down",
+	"code": "ea47"
+}, {
+	"name": "sort-alpha-asc",
+	"code": "ea48"
+}, {
+	"name": "sort-alpha-desc",
+	"code": "ea49"
+}, {
+	"name": "sort-numeric-asc",
+	"code": "ea4a"
+}, {
+	"name": "sort-numberic-desc",
+	"code": "ea4b"
+}, {
+	"name": "sort-amount-asc",
+	"code": "ea4c"
+}, {
+	"name": "sort-amount-desc",
+	"code": "ea4d"
+}, {
+	"name": "command",
+	"code": "ea4e"
+}, {
+	"name": "shift",
+	"code": "ea4f"
+}, {
+	"name": "ctrl",
+	"code": "ea50"
+}, {
+	"name": "opt",
+	"code": "ea51"
+}, {
+	"name": "checkbox-checked",
+	"code": "ea52"
+}, {
+	"name": "checkbox-unchecked",
+	"code": "ea53"
+}, {
+	"name": "radio-checked",
+	"code": "ea54"
+}, {
+	"name": "radio-checked2",
+	"code": "ea55"
+}, {
+	"name": "radio-unchecked",
+	"code": "ea56"
+}, {
+	"name": "crop",
+	"code": "ea57"
+}, {
+	"name": "make-group",
+	"code": "ea58"
+}, {
+	"name": "ungroup",
+	"code": "ea59"
+}, {
+	"name": "scissors",
+	"code": "ea5a"
+}, {
+	"name": "filter",
+	"code": "ea5b"
+}, {
+	"name": "font",
+	"code": "ea5c"
+}, {
+	"name": "ligature",
+	"code": "ea5d"
+}, {
+	"name": "ligature2",
+	"code": "ea5e"
+}, {
+	"name": "text-height",
+	"code": "ea5f"
+}, {
+	"name": "text-width",
+	"code": "ea60"
+}, {
+	"name": "font-size",
+	"code": "ea61"
+}, {
+	"name": "bold",
+	"code": "ea62"
+}, {
+	"name": "underline",
+	"code": "ea63"
+}, {
+	"name": "italic",
+	"code": "ea64"
+}, {
+	"name": "strikethrough",
+	"code": "ea65"
+}, {
+	"name": "omega",
+	"code": "ea66"
+}, {
+	"name": "sigma",
+	"code": "ea67"
+}, {
+	"name": "page-break",
+	"code": "ea68"
+}, {
+	"name": "superscript",
+	"code": "ea69"
+}, {
+	"name": "subscript",
+	"code": "ea6a"
+}, {
+	"name": "superscript2",
+	"code": "ea6b"
+}, {
+	"name": "subscript2",
+	"code": "ea6c"
+}, {
+	"name": "text-color",
+	"code": "ea6d"
+}, {
+	"name": "pagebreak",
+	"code": "ea6e"
+}, {
+	"name": "clear-formatting",
+	"code": "ea6f"
+}, {
+	"name": "table",
+	"code": "ea70"
+}, {
+	"name": "table2",
+	"code": "ea71"
+}, {
+	"name": "insert-template",
+	"code": "ea72"
+}, {
+	"name": "pilcrow",
+	"code": "ea73"
+}, {
+	"name": "ltr",
+	"code": "ea74"
+}, {
+	"name": "rtl",
+	"code": "ea75"
+}, {
+	"name": "section",
+	"code": "ea76"
+}, {
+	"name": "paragraph-left",
+	"code": "ea77"
+}, {
+	"name": "paragraph-center",
+	"code": "ea78"
+}, {
+	"name": "paragraph-right",
+	"code": "ea79"
+}, {
+	"name": "paragraph-justify",
+	"code": "ea7a"
+}, {
+	"name": "indent-increase",
+	"code": "ea7b"
+}, {
+	"name": "indent-decrease",
+	"code": "ea7c"
+}, {
+	"name": "share",
+	"code": "ea7d"
+}, {
+	"name": "new-tab",
+	"code": "ea7e"
+}, {
+	"name": "embed",
+	"code": "ea7f"
+}, {
+	"name": "embed2",
+	"code": "ea80"
+}, {
+	"name": "terminal",
+	"code": "ea81"
+}, {
+	"name": "share2",
+	"code": "ea82"
+}, {
+	"name": "mail",
+	"code": "ea83"
+}, {
+	"name": "mail2",
+	"code": "ea84"
+}, {
+	"name": "mail3",
+	"code": "ea85"
+}, {
+	"name": "mail4",
+	"code": "ea86"
+}, {
+	"name": "google",
+	"code": "ea87"
+}, {
+	"name": "google-plus",
+	"code": "ea88"
+}, {
+	"name": "google-plus2",
+	"code": "ea89"
+}, {
+	"name": "google-plus3",
+	"code": "ea8a"
+}, {
+	"name": "google-drive",
+	"code": "ea8b"
+}, {
+	"name": "facebook",
+	"code": "ea8c"
+}, {
+	"name": "facebook2",
+	"code": "ea8d"
+}, {
+	"name": "facebook3",
+	"code": "ea8e"
+}, {
+	"name": "ello",
+	"code": "ea8f"
+}, {
+	"name": "instagram",
+	"code": "ea90"
+}, {
+	"name": "twitter",
+	"code": "ea91"
+}, {
+	"name": "twitter2",
+	"code": "ea92"
+}, {
+	"name": "twitter3",
+	"code": "ea93"
+}, {
+	"name": "feed2",
+	"code": "ea94"
+}, {
+	"name": "feed3",
+	"code": "ea95"
+}, {
+	"name": "feed4",
+	"code": "ea96"
+}, {
+	"name": "youtube",
+	"code": "ea97"
+}, {
+	"name": "youtube2",
+	"code": "ea98"
+}, {
+	"name": "youtube3",
+	"code": "ea99"
+}, {
+	"name": "youtube4",
+	"code": "ea9a"
+}, {
+	"name": "twitch",
+	"code": "ea9b"
+}, {
+	"name": "vimeo",
+	"code": "ea9c"
+}, {
+	"name": "vimeo2",
+	"code": "ea9d"
+}, {
+	"name": "vimeo3",
+	"code": "ea9e"
+}, {
+	"name": "lanyrd",
+	"code": "ea9f"
+}, {
+	"name": "flickr",
+	"code": "eaa0"
+}, {
+	"name": "flickr2",
+	"code": "eaa1"
+}, {
+	"name": "flickr3",
+	"code": "eaa2"
+}, {
+	"name": "flickr4",
+	"code": "eaa3"
+}, {
+	"name": "picassa",
+	"code": "eaa4"
+}, {
+	"name": "picassa2",
+	"code": "eaa5"
+}, {
+	"name": "dribbble",
+	"code": "eaa6"
+}, {
+	"name": "dribbble2",
+	"code": "eaa7"
+}, {
+	"name": "dribbble3",
+	"code": "eaa8"
+}, {
+	"name": "forrst",
+	"code": "eaa9"
+}, {
+	"name": "forrst2",
+	"code": "eaaa"
+}, {
+	"name": "deviantart",
+	"code": "eaab"
+}, {
+	"name": "deviantart2",
+	"code": "eaac"
+}, {
+	"name": "steam",
+	"code": "eaad"
+}, {
+	"name": "steam2",
+	"code": "eaae"
+}, {
+	"name": "dropbox",
+	"code": "eaaf"
+}, {
+	"name": "onedrive",
+	"code": "eab0"
+}, {
+	"name": "github",
+	"code": "eab1"
+}, {
+	"name": "github2",
+	"code": "eab2"
+}, {
+	"name": "github3",
+	"code": "eab3"
+}, {
+	"name": "github4",
+	"code": "eab4"
+}, {
+	"name": "github5",
+	"code": "eab5"
+}, {
+	"name": "wordpress",
+	"code": "eab6"
+}, {
+	"name": "wordpress2",
+	"code": "eab7"
+}, {
+	"name": "joomla",
+	"code": "eab8"
+}, {
+	"name": "blogger",
+	"code": "eab9"
+}, {
+	"name": "blogger2",
+	"code": "eaba"
+}, {
+	"name": "tumblr",
+	"code": "eabb"
+}, {
+	"name": "tumblr2",
+	"code": "eabc"
+}, {
+	"name": "yahoo",
+	"code": "eabd"
+}, {
+	"name": "tux",
+	"code": "eabe"
+}, {
+	"name": "apple",
+	"code": "eabf"
+}, {
+	"name": "finder",
+	"code": "eac0"
+}, {
+	"name": "android",
+	"code": "eac1"
+}, {
+	"name": "windows",
+	"code": "eac2"
+}, {
+	"name": "windows8",
+	"code": "eac3"
+}, {
+	"name": "soundcloud",
+	"code": "eac4"
+}, {
+	"name": "soundcloud2",
+	"code": "eac5"
+}, {
+	"name": "skype",
+	"code": "eac6"
+}, {
+	"name": "reddit",
+	"code": "eac7"
+}, {
+	"name": "linkedin",
+	"code": "eac8"
+}, {
+	"name": "linkedin2",
+	"code": "eac9"
+}, {
+	"name": "lastfm",
+	"code": "eaca"
+}, {
+	"name": "lastfm2",
+	"code": "eacb"
+}, {
+	"name": "delicious",
+	"code": "eacc"
+}, {
+	"name": "stumbleupon",
+	"code": "eacd"
+}, {
+	"name": "stumbleupon2",
+	"code": "eace"
+}, {
+	"name": "stackoverflow",
+	"code": "eacf"
+}, {
+	"name": "pinterest",
+	"code": "ead0"
+}, {
+	"name": "pinterest2",
+	"code": "ead1"
+}, {
+	"name": "xing",
+	"code": "ead2"
+}, {
+	"name": "xing2",
+	"code": "ead3"
+}, {
+	"name": "flattr",
+	"code": "ead4"
+}, {
+	"name": "foursquare",
+	"code": "ead5"
+}, {
+	"name": "paypal",
+	"code": "ead6"
+}, {
+	"name": "paypal2",
+	"code": "ead7"
+}, {
+	"name": "paypal3",
+	"code": "ead8"
+}, {
+	"name": "yelp",
+	"code": "ead9"
+}, {
+	"name": "file-pdf",
+	"code": "eada"
+}, {
+	"name": "file-openoffice",
+	"code": "eadb"
+}, {
+	"name": "file-word",
+	"code": "eadc"
+}, {
+	"name": "file-excel",
+	"code": "eadd"
+}, {
+	"name": "libreoffice",
+	"code": "eade"
+}, {
+	"name": "html5",
+	"code": "eadf"
+}, {
+	"name": "html52",
+	"code": "eae0"
+}, {
+	"name": "css3",
+	"code": "eae1"
+}, {
+	"name": "git",
+	"code": "eae2"
+}, {
+	"name": "svg",
+	"code": "eae3"
+}, {
+	"name": "codepen",
+	"code": "eae4"
+}, {
+	"name": "chrome",
+	"code": "eae5"
+}, {
+	"name": "firefox",
+	"code": "eae6"
+}, {
+	"name": "IE",
+	"code": "eae7"
+}, {
+	"name": "opera",
+	"code": "eae8"
+}, {
+	"name": "safari",
+	"code": "eae9"
+}, {
+	"name": "IcoMoon",
+	"code": "eaea"
+}]

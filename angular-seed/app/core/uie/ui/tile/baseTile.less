@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+.base-tile {
+	cursor: pointer;
+	float: left;
+	.transition(all 400ms ease-in-out);
+
+	a {
+		position: relative;
+		margin: 10px;
+		padding: 10px;
+		width: 190px;
+		height: 222px;
+		color: @black;
+		display: block;
+		background: @white;
+		text-decoration: none;
+		border: 1px solid @gray;
+		.transition(all 400ms ease-in-out);
+		.box-shadow(hsla(0, 0%, 94%, 0.2) 0px 0px 1px 2px);
+	}
+	a:hover {
+		border-color: @cyan;
+	}
+	.base-tile-icon {
+		margin: 10px;
+		width: 40px;
+		height: 40px;
+		text-align: center;
+		line-height: 40px;
+		color: @white;
+		.transition(all 400ms ease-in-out);
+	}
+	.base-tile-name {
+		position: absolute;
+		bottom: 30px;
+		right: 10px;
+		font-size: 1.2em;
+		font-weight: bold;
+		.transition(all 400ms ease-in-out);
+	}
+	.base-tile-description {
+		position: absolute;
+		bottom: 10px;
+		left: 10px;
+		right: 10px;
+		font-size: 0.8em;
+		text-align: right;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		.transition(all 400ms ease-in-out);
+	}
+}
+// large devices (large desktops)
+@media screen and (min-width:@screen-medium) {
+}
+// medium devices (desktops)
+@media screen and (max-width:@screen-medium) {
+	.base-tile {
+		a {
+			width: 150px;
+			height: 202px;
+		}
+	}
+}
+// small devices (tablets)
+@media screen and (max-width:@screen-small) {
+	.base-tile {
+		width: 100%;
+		margin: 0 0 10px;
+
+		a {
+			width: 100%;
+			margin: 0;
+			height: 82px;
+		}
+	}
+}
+// extra small devices
+@media screen and  (max-width:@screen-xsmall) {
+	.base-tile {
+		width: 100%;
+		margin: 0 0 10px;
+
+		a {
+			width: 100%;
+			margin: 0;
+			height: 62px;
+		}
+		.base-tile-icon {
+			margin: 0;
+		}
+		.base-tile-name {
+			line-height: 40px;
+			bottom: 10px;
+		}
+		.base-tile-description {
+			display: none;
+		}
+	}
+}

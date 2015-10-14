@@ -1,0 +1,9 @@
+<div class="sidebar-content" ng-controller="sdkController">
+	<ul class="list-group list-components">
+		<li class="list-group-item {{component.name}} component-sdk" ng-repeat="component in listComponents" ng-click="hola()">
+			<a ui-sref="{{component.sref}}"><!--<span class="badge">0</span>-->
+				{{component.name}}
+			</a>
+		</li>
+	</ul>
+</div>

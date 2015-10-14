@@ -1,0 +1,17 @@
+<div ng-controller= "loaderController as loaderExample" class="sdk-loaderExample example">
+	<h4>External Loader</h4>
+	<section>
+		<loader working="loaderExample.working" disable-background="true"></loader>
+		<div class="example-container">
+			<div ng-repeat="loader in loaderExample.loaders" class="wrapper">
+				<span class="loader">
+					<loader working="loader.working" template="{{loader.template}}" message="{{loader.message}}"></loader>
+				</span>
+				<span class="working"><b>working: </b>{{loader.working}}</span>
+				<span class="template"><b>template: </b>{{loader.template}}</span>
+				<span ng-show="loader.message" class="message"><b>message: </b>"{{loader.message}}"</span>
+			</div>
+		</div>
+	</section>
+</div>
+

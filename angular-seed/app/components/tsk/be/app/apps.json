@@ -1,0 +1,17 @@
+[{
+	"id" : 1,
+	"idComponent": "SDK",
+	"sref": "sdk",
+	"icon": "html5",
+	"background": "#29abe2",
+	"name": "SDK",
+	"description": "UI Elements"
+}, {
+	"id" : 2,
+	"idComponent": "EM",
+	"sref": "em",
+	"icon": "table",
+	"background": "#29abe2",
+	"name": "EM",
+	"description": "Employees Management"
+}]

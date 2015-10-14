@@ -1,0 +1,59 @@
+@charset "UTF-8";
+// first load the util, colors, fonts, screen sizes
+@import '/core/uie/ui/css/util.less';
+@import '/core/uie/ui/css/color.less';
+@import '/core/uie/ui/css/icon.less';
+@import '/core/uie/ui/css/screenSize.less';
+
+.list-components {
+	overflow-y: auto;
+	position: absolute;
+	bottom: 10px;
+	top: 70px;
+	width: 320px;
+}
+.component-search {
+	position: absolute;
+	top: 0px;
+	height: 50px;
+	width: 300px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+.container-wrapper {
+	padding: 10px;
+	width: 100%;
+}
+.example {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	padding: 0 3.5%;
+
+	h4 {
+		margin-top: 25px;
+	}
+	section {
+		position: absolute;
+		left: 3.5%;
+		top: 70px;
+		right: 0;
+		bottom: 0;
+		padding-right: 3.5%;
+		overflow-y: auto;
+	}
+	.example-container {
+		h4 {
+			margin-top: 10px;
+			padding-top: 10px;
+			clear: both;
+		}
+	}
+}
+// then load the component style
+@import '/components/sdk/ui/icon/icon.less';
+@import '/components/sdk/ui/loader/loader.less';
+@import '/components/sdk/ui/tooltip/tooltip.less';

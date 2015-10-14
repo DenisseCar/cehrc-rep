@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.sdk-tooltipExample {
+	.wrapper {
+		width: 90px;
+		height: 70px;
+		padding: 10px 0;
+		margin: 5px;
+		float: left;
+		display: inline-block;
+		text-align: center;
+		.transition(all 400ms ease-in-out);
+
+		a {
+			display: block;
+			text-decoration: none;
+			color: @black;
+		}
+	}
+	.wrapper:hover {
+		background: @white;
+	}
+	.wrapper.close-button-example {
+		width: 100%;
+		line-height: 40px;
+	}
+	.example-container {
+		h4 {
+			margin-top: 10px;
+			padding-top: 10px;
+			clear: both;
+		}
+	}
+}

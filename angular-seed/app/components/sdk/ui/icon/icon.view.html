@@ -1,0 +1,14 @@
+<div ng-controller= "iconController as iconExample" class="sdk-iconExample example">
+	<h4>Icon Library</h4>
+	<section>
+		<loader working="iconExample.working" disable-background="true"></loader>
+		<div class="example-container">
+			<div ng-repeat="icon in iconExample.icons" class="wrapper">
+				<span class="icon icon-{{icon.name}}"></span>
+				<span class="name">{{icon.name}}</span>
+				<span class="code">{{icon.code}}</span>
+			</div>
+		</div>
+	</section>
+</div>
+

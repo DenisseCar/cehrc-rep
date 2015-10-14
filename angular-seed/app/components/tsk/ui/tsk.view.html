@@ -1,0 +1,6 @@
+<div class="taskboard-main" ng-controller= "tskController as tsk">
+	<loader working="tsk.working" disable-background="true"></loader>
+	<div ng-repeat="app in tsk.apps">
+		<base-tile tile="app"></base-tile>
+	</div>
+</div>

@@ -1,0 +1,47 @@
+<div class="base-layout main-wrapper" ng-controller= "baseLayoutController as layout">
+	<div class='main-container' ng-class=" layout.expanded ? 'expanded' : '' ">
+		<section class="sidebar-overlay" ng-show="layout.sidebarOverlay" ng-click="layout.toggleSidebar()"></section>
+		<section class="sidebar" ng-class=" layout.sidebarOverlay ? 'overlay' : '' ">
+			<header>
+				<div class="header-element options left">
+					<a ui-sref="tsk" tabindex="0" class="icon" ng-show="!layout.expanded || layout.sidebarOverlay">
+						<span class="icon-home"></span>
+					</a>	
+				</div>
+				<div class="header-element title">
+					<span>{{layout.menuName}}</span>
+				</div>
+				<div class="header-element options right">
+				</div>
+			</header>
+			<main>
+				<div ui-view="sidebar"></div>
+			</main>
+			<footer></footer>
+		</section>
+		<section class="main" ng-class=" layout.expanded ? 'expanded' : '' ">
+			<header>
+				<div class="header-element options left">
+					<button tabindex="0" class="icon toggle-sidebar-action" ng-class="layout.expanded ? 'active' : '' " ng-click="layout.toggleSidebar()">
+						<span class="icon-menu"></span>
+					</button>	
+				</div>
+				<div class="header-element title">
+					<span>Centralized Human Resources Control (CeHRC)</span>
+				</div>
+				<div class="header-element options right">
+					<button tabindex="0" class="icon" ng-show="!layout.expanded" ng-click="layout.toggleExpand()">
+						<span class="icon-arrow-up-right2"></span>
+					</button>
+					<button tabindex="0" class="icon" ng-show="layout.expanded" ng-click="layout.toggleExpand()">
+						<span class="icon-arrow-down-left2"></span>
+					</button>
+				</div>
+			</header>
+			<main>
+			    <div ui-view="main"></div>
+			</main>
+			<footer></footer>
+		</section>
+	</div>
+</div>

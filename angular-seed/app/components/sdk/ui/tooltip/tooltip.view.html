@@ -1,0 +1,20 @@
+<div ng-controller= "tooltipController as tooltipExample" class="sdk-tooltipExample example">
+	<h4>External Tooltip</h4>
+	<section>
+		<loader working="tooltipExample.working" disable-background="true"></loader>
+		<div class="example-container">
+			<h4>Position Examples</h4>
+			<div ng-repeat="tooltip in tooltipExample.positionTooltips" class="wrapper">
+				<a tooltips tooltip-title="{{tooltip.text}}" tooltip-side="{{tooltip.position}}"><b>side: </b><br>{{tooltip.position}}</a>
+			</div>
+			<h4>Size Examples</h4>
+			<div ng-repeat="tooltip in tooltipExample.sizeTooltips" class="wrapper">
+				<a tooltips tooltip-title="{{tooltip.text}}" tooltip-size="{{tooltip.size}}"><b>size: </b><br>{{tooltip.size}}</a>
+			</div>
+			<h4>Speed Examples</h4>
+			<div ng-repeat="tooltip in tooltipExample.speedTooltips" class="wrapper">
+				<a tooltips tooltip-title="{{tooltip.text}}" tooltip-speed="{{tooltip.speed}}"><b>speed: </b><br>{{tooltip.speed}}</a>
+			</div>
+		</div>
+	</section>
+</div>
